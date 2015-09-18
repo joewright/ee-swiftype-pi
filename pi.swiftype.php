@@ -4,7 +4,7 @@ $plugin_info = array(
     'pi_name'         => 'Swiftype',
     'pi_version'      => '1.0.0',
     'pi_author'       => 'Joe Wright',
-    'pi_author_url'   => 'http://github.com/joewright/ee-swiftype-plugin',
+    'pi_author_url'   => 'http://github.com/joewright/ee-swiftype-pi',
     'pi_description'  => 'Tags for Swiftype snippets https://swiftype.com/',
     'pi_usage'        => Swiftype::usage()
 );
